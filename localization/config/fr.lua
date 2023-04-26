@@ -13,7 +13,7 @@ L.TipCount = 'Activer l\'info-bulle du compteur d\'objets'
 L.CountGuild = 'Inclure les banques de guilde'
 L.FlashFind = 'Activer résultat éclair'
 L.DisplayBlizzard = 'Afficher les cadres de Blizzard pour les sacs désactivés'
-L.DisplayBlizzardTip = 'Si activé, le panneau Blizzard par défaut sera affiché pour les sacs et containers de banque cachés.\n\n|cffff1919Nécessite rechargement UI.|r'
+L.DisplayBlizzardTip = 'Si activé, le panneau Blizzard par défaut sera affiché pour les sacs et containers de banque cachés.\n\n|cffff1919Nécessite de recharger l\'UI.|r'
 L.ConfirmGlobals = 'Êtes-vous sûr de vouloir désactiver les paramètres spécifiques à ce personnage ? Tous les paramètres spécifiques seront perdus.'
 L.CharacterSpecific = 'Paramètres spécifiques au personnage'
 
@@ -22,7 +22,7 @@ L.FrameOptions = 'Options des fenêtres'
 L.FrameOptionsDesc = 'Configuration des options spécifiques à une fenêtre de %s'
 L.Frame = 'Fenêtre'
 L.Enabled = 'Activer'
-L.EnabledTip = 'Si désactivé, l\'UI Blizzard par defaut ne sera pas affichée pour cette fenêtre.\n\n|cffff1919Nécessite rechargement UI.|r'
+L.EnabledTip = 'Si désactivé, l\'UI Blizzard par defaut ne sera pas affichée pour cette fenêtre.\n\n|cffff1919Nécessite de recharger l\'UI.|r'
 L.ActPanel = 'Se comporter comme un panneau standard'
 L.ActPanelTip = [[
 Si activé, ce panneau se positionnera
